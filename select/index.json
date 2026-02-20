@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愛結び",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-02-20T11:01:47.661256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛結び",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_愛結び_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛結び",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_愛結び_Novelbright.txt"
+    }
+  ]
+}
